@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c76a7df2-d2ed-4f57-b9aa-2597a7504f14",
+  "id_short": 463268,
+  "published_at": "2026-04-12T19:14:28Z",
+  "repo_name": "all-restaurants-in-eugene-oregon-us-sample-463268",
+  "sample_asset_name": "beamstation_463268_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/463268/beamstation_463268_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_records": 63,
+  "sample_sha256": "5adbb43dcf07143dcbfc9b99129b0927bf324f05511710f7531a8479f30e323b",
+  "sample_size_bytes": 239687,
+  "total_records": 639
+}
