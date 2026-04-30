@@ -1,6 +1,6 @@
 # All Restaurants in Eugene, Oregon, US
 
-> Free BeamStation sample export with 53 rows and masked direct-contact fields.
+> Free BeamStation sample export with 64 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `463268` |
 | Location | Eugene |
 | Category | Restaurants |
-| Full dataset size | 535 records |
-| Free sample size | 53 records (9.91%) |
-| Last export | 2026-04-23T09:36:17.991391+00:00 |
+| Full dataset size | 648 records |
+| Free sample size | 64 records (9.88%) |
+| Last export | 2026-04-30T09:39:11.426442+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-eugene-oregon-us-sample-463268/releases/download/sample-latest/beamstation_463268_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
